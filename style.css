@@ -1,0 +1,22 @@
+.line {
+    background-color: black;
+    width: 70px;
+    height: 10px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+    font-family:Arial;
+    background:linear-gradient(0deg, rgba(239,113,16,1) 0%, rgba(31,161,206,1) 50%, rgba(255,7,33,1) 100%);;
+}
+
+#carousel1 {
+    background-color: seagreen;
+    
+}
+
+#carousel1 img {
+    height: 300px;
+    margin-top: 35px;
+}
